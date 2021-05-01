@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khunkhun-Thanawich
-- 👀 I’m interested in Mobine Development
+- 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Android development by Using Kotlin
 - 💞️ I’m looking to collaborate on a Tech company or similar which required Entry level of Android development knowledge
 - 📫 How to reach me --> email : khunkhun.thanawich@gmail.com // mobilePhone : 080 538 2336
